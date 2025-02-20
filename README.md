@@ -1,4 +1,4 @@
-# ControlNet-involved-weed-detection
+# WeedTeacher
 This is the official repo for the paper "Semi-Supervised Weed Detection in Vegetable Fields: In-Domain and Cross-Domain Analysis"
 
 ## Citation
